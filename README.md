@@ -21,50 +21,19 @@ The platform enables users to create:
 - Trailers
 - Social media content
 
-AralFilm AI combines multiple artificial intelligence systems into a unified creative workflow:
+AralFilm AI combines multiple artificial intelligence systems into a unified creative workflow.
 
-Idea
+---
 
-↓
+# Live Demo — User Interface Preview
 
-Creative Analysis
+A first visual prototype of the OmniFilm AI creative studio interface is available here:
 
-↓
+ **Live UI Demo:** 
+ 
+ https://hecatoncheiresai.github.io/AralFilmAI-ui/
 
-Concept Development
-
-↓
-
-Script Generation
-
-↓
-
-Storyboard Creation
-
-↓
-
-Character Design
-
-↓
-
-AI Video Generation
-
-↓
-
-Editing
-
-↓
-
-Sound Design
-
-↓
-
-Rendering
-
-↓
-
-Final Production
-
+Note: This is currently a frontend-only prototype.
 
 ---
 
@@ -138,31 +107,7 @@ film noir atmosphere
 
 AralFilm AI uses specialized autonomous agents.
 
-AI Director Agent
-
-    |
-    
-Script Agent
-
-    |
-    
-Storyboard Agent
-
-    |
-    
-Character Agent
-
-    |
-    
-Video Generation Agent
-
-    |
-    
-Audio Agent
-
-    |
-    
-Quality Evaluation Agent
+AI Director Agent → Script Agent → Storyboard Agent → Character Agent → Video Generation Agent → Audio Agent → Quality Evaluation Agent
 
 Each agent has a specific responsibility and communicates through the AI orchestration layer.
 
@@ -170,35 +115,7 @@ Each agent has a specific responsibility and communicates through the AI orchest
 
 # Platform Architecture
 
-                 User
-                 
-                  |
-                  
-          Frontend Application
-          
-                  |
-                  
-             API Gateway
-             
-                  |
-                  
-    --------------------------------
-    
-    |              |              |
-    
- Backend        AI Core      Media Engine
- 
-    |              |              |
-    
-     Database AI Agents Rendering
-     
-    |              |              |
-    
-    --------------------------------
-    
-                  |
-                  
-          Cloud Infrastructure
+User → Frontend Application → API Gateway → Backend + AI Core + Media Engine → Database + AI Agents + Rendering → Cloud Infrastructure
 
 ---
 
@@ -374,22 +291,7 @@ Testing Strategy
 
 Testing layers:
 
-Unit Tests
-
-↓
-Integration Tests
-
-↓
-
-API Tests
-
-↓
-
-AI Quality Evaluation
-
-↓
-
-Production Monitoring
+Unit Tests → Integration Tests → API Tests → AI Quality Evaluation → Production Monitoring
 
 Contribution
 
@@ -401,7 +303,7 @@ MIT License
 
 Project Status
 
-🚧 AralFilm AI is currently under active development.
+AralFilm AI is currently under active development.
 
 The current objective is building the foundation for a complete AI-powered creative production ecosystem.
 

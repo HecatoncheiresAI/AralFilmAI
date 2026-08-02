@@ -24,26 +24,47 @@ The platform enables users to create:
 AralFilm AI combines multiple artificial intelligence systems into a unified creative workflow:
 
 Idea
+
 ↓
+
 Creative Analysis
+
 ↓
+
 Concept Development
+
 ↓
+
 Script Generation
+
 ↓
+
 Storyboard Creation
+
 ↓
+
 Character Design
+
 ↓
+
 AI Video Generation
+
 ↓
+
 Editing
+
 ↓
+
 Sound Design
+
 ↓
+
 Rendering
+
 ↓
+
 Final Production
+
 
 ---
 
@@ -118,17 +139,29 @@ film noir atmosphere
 AralFilm AI uses specialized autonomous agents.
 
 AI Director Agent
+
     |
+    
 Script Agent
+
     |
+    
 Storyboard Agent
+
     |
+    
 Character Agent
+
     |
+    
 Video Generation Agent
+
     |
+    
 Audio Agent
+
     |
+    
 Quality Evaluation Agent
 
 Each agent has a specific responsibility and communicates through the AI orchestration layer.
@@ -138,19 +171,33 @@ Each agent has a specific responsibility and communicates through the AI orchest
 # Platform Architecture
 
                  User
+                 
                   |
+                  
           Frontend Application
+          
                   |
+                  
              API Gateway
+             
                   |
+                  
     --------------------------------
+    
     |              |              |
+    
  Backend        AI Core      Media Engine
+ 
     |              |              |
+    
      Database AI Agents Rendering
+     
     |              |              |
+    
     --------------------------------
+    
                   |
+                  
           Cloud Infrastructure
 
 ---
@@ -328,15 +375,24 @@ Testing Strategy
 Testing layers:
 
 Unit Tests
+
 ↓
 Integration Tests
+
 ↓
+
 API Tests
+
 ↓
+
 AI Quality Evaluation
+
 ↓
+
 Production Monitoring
+
 Contribution
+
 Contributions are welcome.
 
 License

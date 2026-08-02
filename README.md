@@ -27,7 +27,7 @@ AralFilm AI combines multiple artificial intelligence systems into a unified cre
 
 # Live Demo — User Interface Preview
 
-A first visual prototype of the OmniFilm AI creative studio interface is available here:
+A first visual prototype of the AralFilm AI creative studio interface is available here:
 
  **Live UI Demo:** 
  

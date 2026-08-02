@@ -158,40 +158,11 @@ Planned:
 
 ---
 
-# Repository Structure
-
-Repository Structure
-
-AralFilm-ai/
-
-
-├── frontend/
-
-├── backend/
-
-├── ai-platform/
-
-├── media-engine/
-
-├── database/
-
-├── infrastructure/
-
-├── tests/
-
-├── scripts/
-
-└── docs/
-
-
----
-
 # Development Roadmap
 
 ## Phase 1 — Foundation
 
 Status: In Development
-
 
 Goals:
 - project architecture

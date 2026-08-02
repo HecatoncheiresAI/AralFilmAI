@@ -164,15 +164,25 @@ Repository Structure
 
 AralFilm-ai/
 
+
 ├── frontend/
+
 ├── backend/
+
 ├── ai-platform/
+
 ├── media-engine/
+
 ├── database/
+
 ├── infrastructure/
+
 ├── tests/
+
 ├── scripts/
+
 └── docs/
+
 
 ---
 

@@ -1,5 +1,7 @@
 # AralFilm AI
 
+AI-powered virtual film studio
+
 ## Autonomous AI Creative Production Platform
 
 ![AralFilm AI](https://img.shields.io/badge/AralFilm-AI-blue)
@@ -9,7 +11,7 @@
 
 ## Overview
 
-AralFilm AI is an advanced AI-powered creative production platform designed to transform ideas, concepts, scripts, and references into professional multimedia content.
+AralFilm AI is a product prototype of an AI-powered virtual film studio designed to transform a creative idea into a structured film production workflow — from concept and screenplay to storyboard, characters, scenes, sound, timeline and final export.
 
 The platform enables users to create:
 
@@ -23,7 +25,9 @@ The platform enables users to create:
 
 AralFilm AI combines multiple artificial intelligence systems into a unified creative workflow.
 
----
+#  Current stage: Functional UI Prototype / MVP Prototype
+
+The current public version demonstrates the complete product workflow and user experience. AI generation, media rendering and external model integrations are under active development.
 
 # Live Demo — User Interface Preview
 
@@ -33,7 +37,17 @@ A first visual prototype of the AralFilm AI creative studio interface is availab
  
  https://hecatoncheiresai.github.io/AralFilmAI-ui/
 
-Note: This is currently a frontend-only prototype.
+# The Problem
+
+AI tools can generate text, images, video, music and voice, but creative production remains fragmented across multiple services.
+A filmmaker or creator may need one tool for writing, another for images, another for video generation, another for voice and music, and additional software for editing and production management.
+AralFilm AI addresses this fragmentation by designing a unified AI production workflow.
+
+# The Solution
+
+AralFilm AI is designed as an AI-native virtual production studio where creative work is organized into one continuous workflow:
+Idea → Script → Storyboard → Characters → Scenes → Timeline → Audio → Render → Export
+Instead of treating AI generation as a collection of isolated tools, AralFilm AI organizes specialized AI capabilities around the logic of film production.
 
 ---
 

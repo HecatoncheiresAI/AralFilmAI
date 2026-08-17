@@ -226,16 +226,6 @@ Goals:
 
 ---
 
-# Installation
-
-## Requirements
-
-- Python 3.11+
-- Node.js 20+
-- Docker
-- PostgreSQL
-- Run Development Environment
-docker-compose up
 API Documentation
 
 API documentation will be available at:
